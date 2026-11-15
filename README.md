@@ -23,7 +23,7 @@
 
 🤝 **Let's Connect**
 - LinkedIn: https://www.linkedin.com/in/ayesha-syed-91334337a/
-- GitHub: [Add your GitHub URL]
+- GitHub: https://github.com/aishabukharisyed
 
 ---
 
