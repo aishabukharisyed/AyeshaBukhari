@@ -22,7 +22,7 @@
 - Gain industry experience through internships.
 
 🤝 **Let's Connect**
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/ayesha-syed-91334337a/
 - GitHub: [Add your GitHub URL]
 
 ---
